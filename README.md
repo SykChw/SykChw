@@ -1,4 +1,11 @@
-### Hi there 👋
+<picture>
+ <img alt="Picture of Skull with the words 'Veristas et Sapienta'." src="images/ezgif-2-e22db535cf.gif" width="1000" height="300">
+</picture>
+
+### Hello!
+
+
+
 
 <!--
 **SykChw/SykChw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
