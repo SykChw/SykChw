@@ -2,6 +2,7 @@
  <img alt="Cellular Automata Cosmos." src="images/ezgif-2-e22db535cf.gif" width="1000" height="300">
 </picture>
 
+
 ### Hello!
 <p>
  I'm a self-taught AI enthusiast, currently a Research Scholar at IIIT, Bangalore. My area of research broadly falls into the category of AI Safety. Working with various kinds of CNNs. I am generally interested in the Safety, Alignment and Privacy considerations of AI. Other than that, I have a great deal of interest in the field of Complex, Adaptive and Self-Organizing Systems, along with Cellular Automata and Artificial Life. I enjoy learning about ideas that occur at the confluence of two or more fields, Neural Networks are a prime example of that. There are a lot of unorthodox ideas that do not neatly fit into specialist boxes and have the capacity to be entirely revolutionary all on their own. Above all, I love venturing into subjects that narrate a great story. I love hearing well-told, intriguing stories.
@@ -19,7 +20,7 @@ I enjoy sketching and writing when I'm not trying to work, I enjoy sketching mor
 <details>
 <summary>Sporadic list of topics I'm interested in</summary>
 
-Artificial Intelligence, Neural Networks, Reinforcement Learning, AI Alignment, Convolutional Neural Networks, Artificial Life, Non-linear Sciemces, Chaos Theory, Cellular Automata, Stochastic Porcesses, Genetic Computation, von Neumann Cellular Automata (vNCA), Collective Intelligence, von Neumann Universal Constructors, Neural Cellular Automata, Swarm Intelligence, Nobili Cellular Automata, Complex Adaptive Systems, Category Theory, Graph Neural Networks, Automata theory, Compilers, Evolutionary computation...
+Artificial Intelligence, Neural Networks, Reinforcement Learning, AI Alignment, Convolutional Neural Networks, Artificial Life, Non-linear Sciemces, Chaos Theory, Cellular Automata, Stochastic Processes, Genetic Computation, von Neumann Cellular Automata (vNCA), Collective Intelligence, von Neumann Universal Constructors, Neural Cellular Automata, Swarm Intelligence, Nobili Cellular Automata, Complex Adaptive Systems, Category Theory, Graph Neural Networks, Automata theory, Compilers, Evolutionary Computation...
 
 </details>
 
