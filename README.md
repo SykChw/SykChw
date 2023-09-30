@@ -16,6 +16,7 @@
 I enjoy sketching and writing when I'm not trying to work, I enjoy sketching more as I have a veritable pile of manuscripts that are in a perpetual state of disrepair. Besides that, I do enjoy reading too, although the amount of books that I used to read on a yearly basis has drastically reduced. I mostly like to read Julian Jaynes, John Searle, Wittgenstein, Schopenhauer, Nietzsche, Hegel and the like; I would also like to believe that I understand atleast some of it.
 </p>
 
+[![An image of @sykchw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sykchw)](https://holopin.io/@sykchw)
 
 <details>
 <summary>Sporadic list of topics I'm interested in</summary>
