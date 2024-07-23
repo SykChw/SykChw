@@ -1,1 +1,1 @@
-Checking if the images that need to be linked to my readme can be hosted on github itself.
+hosting images as assets that i usually use in other places, mostly for profiles and such. if not here, pictures must be at Sy/diagrams.
