@@ -16,6 +16,10 @@
 I enjoy sketching and writing when I'm not trying to work, I enjoy sketching more as I have a veritable pile of manuscripts that are in a perpetual state of disrepair. Besides that, I do enjoy reading too, although the amount of books that I used to read on a yearly basis has drastically reduced. I mostly like to read Julian Jaynes, John Searle, Wittgenstein, Schopenhauer, Nietzsche, Hegel and the like; I would also like to believe that I understand atleast some of it.
 </p>
 
+<p>
+ You can read more about my random musing at my bearblog page <a href="https://sykchw.bearblog.dev/">electric brains 🧠</a>. Still in its nascent stages, it is a messy personal blog that mostly has byte sized chunks of some technical exposition along with a lot of unrelated stuff that comes to my mind. You are just as likely to see a poem about cobblers next to analyses of particular convex sets.
+</p>
+
 [![An image of @sykchw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sykchw)](https://holopin.io/@sykchw)
 
 <details>
