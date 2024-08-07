@@ -17,7 +17,7 @@ I enjoy sketching and writing when I'm not trying to work, I enjoy sketching mor
 </p>
 
 <p>
- You can read more about my random musing at my bearblog page <a href="https://sykchw.bearblog.dev/">electric brains 🧠</a>. Still in its nascent stages, it is a messy personal blog that mostly has byte sized chunks of some technical exposition along with a lot of unrelated stuff that comes to my mind. You are just as likely to see a poem about cobblers next to analyses of particular convex sets.
+ You can read more about my random musing at my bearblog page <a href="https://sykchw.bearblog.dev/">electric brains 🧠</a>. Still in its nascent stages, it is a messy personal blog that mostly has byte sized chunks of exposition along about all the unrelated scatered stuff that comes to my mind. You are just as likely to see a poem about cobblers next to analyses of particular convex sets.
 </p>
 
 <p>
