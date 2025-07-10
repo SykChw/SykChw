@@ -21,7 +21,7 @@ I enjoy sketching and writing when I'm not trying to work, I enjoy sketching mor
 </p>
 
 <p>
- You can also check out my <a href="https://sykchw.github.io/">Research Blog</a> that has more long-form technical content.
+ You can also check out my <a href="https://sayak.pages.dev/">Research Blog</a> that has more long-form technical content.
 </p>
 
 [![An image of @sykchw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sykchw)](https://holopin.io/@sykchw)
